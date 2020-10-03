@@ -2,6 +2,7 @@ ToDo List Manager: (MERN stack)
 
 About project:
 Visitors may add a toDo item, edit item, mark as read/unread, delete an item.
+They may also edit bucket name to any name they like.
 ToDo item can also be persisted, for that visitors need to sign up for an account.
 
 Documentation:
